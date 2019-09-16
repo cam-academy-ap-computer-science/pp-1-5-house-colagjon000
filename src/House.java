@@ -57,7 +57,7 @@ public class House {
 		System.out.println("cow with the crupmpled horn,");
 	}
 	public static void verse5_2() {
-		System.out.println("That tossed the dog,,");
+		System.out.println("That tossed the dog,");
 		verse4_2();
 	}
 	public static void verse6_1() {
